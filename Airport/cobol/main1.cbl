@@ -29,6 +29,7 @@
 
        procedure division.
 
+           display "Hit Enter to Continue:".
            accept user-input1. 
            set open-file to true
            perform call-aircode-program
